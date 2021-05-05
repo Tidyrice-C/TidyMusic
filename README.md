@@ -1,0 +1,2 @@
+# TidyMusic
+ Discord music bot
