@@ -1,0 +1,2 @@
+//bot prefix
+module.exports = "$";
